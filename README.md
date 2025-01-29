@@ -12,7 +12,7 @@ Este repositório contém o código-fonte do meu portfólio, desenvolvido com HT
 ## 📂 Estrutura do Projeto
 
 ```
-📦 portfolio
+📦 MeuPortfolio
 ├── 📁 assets
 │   ├── 📁 media  # Imagens do projeto
 ├── index.html    # Arquivo principal
