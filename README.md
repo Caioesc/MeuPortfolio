@@ -1,20 +1,22 @@
 # 📌 Portfólio - Caio Escorel
 
-Este repositório contém o código-fonte do meu portfólio, desenvolvido com HTML, CSS e Bootstrap. O projeto apresenta minha formação, competências e projetos anteriores.
+Este repositório contém o código-fonte do meu portfólio, desenvolvido com HTML, CSS e Bootstrap. O projeto apresenta minha formação, competências, projetos anteriores e certificados.
 
 ## 🔧 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - Bootstrap 5.3.3 ([Download](https://getbootstrap.com/))
-- JavaScript (apenas para interações do Bootstrap)
+- JavaScript (para interações do Bootstrap e animações CSS)
 
 ## 📂 Estrutura do Projeto
 
 ```
 📦 MeuPortfolio
 ├── 📁 assets
-│   ├── 📁 media  # Imagens do projeto
+│   ├── 📁 media  # Imagens do projeto (certificados, projetos, ícones de contato)
+├── 📁 css
+│   ├── style.css  # Arquivo de estilos personalizados
 ├── index.html    # Arquivo principal
 ├── README.md     # Documentação do projeto
 ```
@@ -40,7 +42,7 @@ git clone https://github.com/Caioesc/MeuPortfolio.git
 ### 3️⃣ Abrir o Projeto no VS Code
 
 ```sh
-cd MeuPortifolio
+cd MeuPortfolio
 code .
 ```
 
@@ -48,6 +50,20 @@ code .
 
 - No VS Code, clique com o botão direito no **index.html** e selecione **"Open with Live Server"**
 - O projeto será aberto automaticamente no seu navegador padrão
+
+## 📜 Funcionalidades
+
+- **Apresentação Pessoal**: Informações sobre minha formação e objetivos profissionais.
+- **Competências**: Seção destacando habilidades técnicas (Front-end e Back-end) e socioemocionais.
+- **Projetos**: Cards interativos com imagens e links para repositórios GitHub ou demonstrações ao vivo.
+- **Certificados**: Carrossel de certificados adquiridos ao longo da minha jornada.
+- **Contato**: Links diretos para WhatsApp, Email, GitHub e LinkedIn.
+
+## 🎨 Estilos e Animações
+
+- **Estilo moderno e responsivo**: Layout ajustável para dispositivos móveis e desktops.
+- **Efeitos interativos**: Cards com animação `zoomIn` e `hover` para destacar conteúdo.
+- **Transições suaves**: Animações CSS para melhorar a experiência do usuário.
 
 ## 📜 Licença
 
@@ -60,5 +76,7 @@ Caso queira entrar em contato, me mande um e-mail ou me adicione no LinkedIn:
 📧 **[caioheraclio@gmail.com](mailto:caioheraclio@gmail.com)**
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/caioescorel/)**
+
+🔗 **[GitHub](https://github.com/Caioesc)**
 
 Espero que goste do meu portfólio! ⭐ Se achar útil, não esqueça de dar um **star** no repositório. 😉
